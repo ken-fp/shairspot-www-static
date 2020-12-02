@@ -1,4 +1,4 @@
-SOURCE_DIR="./shairspot-www-static/"
+SOURCE_DIR="./dist/"
 TARGET_DIR="s3://shairspot.com/"
 CLOUDFRONT_ID="EM6MT12HQPI9S"
 CLOUDFRONT_WWW_ID="E3RL9NHKRF2XY7"
